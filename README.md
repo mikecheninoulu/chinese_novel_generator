@@ -1,5 +1,5 @@
 # chinese_novel_generator
-This is a chinese novel generator which is based on Jin Yong's Wu xia NOVEL.
+This is a chinese novel generator which is based on Jin Yong's Kungfu NOVEL.
 
 
 
